@@ -1,2 +1,2 @@
 # KorKlaPush_Andoird_Firebase
-Notification for android appication (Firebase Cloud Messaging)
+Notification for android application (Firebase Cloud Messaging)
