@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "226172638877",
+    "firebase_url": "https://korklapush-5488a.firebaseio.com",
+    "project_id": "korklapush-5488a",
+    "storage_bucket": "korklapush-5488a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226172638877:android:00cdf6280a6fd35c",
+        "android_client_info": {
+          "package_name": "tntstudios.com.br.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226172638877-ta5fj6picj4e24qnu73eii9305thl54e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSD7pbd8FsP07K61CfUHOUVAs6iY94GZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226172638877:android:17496de2a7ecd597",
+        "android_client_info": {
+          "package_name": "com.kkla.korklapush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226172638877-ta5fj6picj4e24qnu73eii9305thl54e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSD7pbd8FsP07K61CfUHOUVAs6iY94GZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
